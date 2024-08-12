@@ -8,37 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0379f4f9ca8f271a",
+            "id": "53795bba4b391544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md",
+                "file": "Клинковая Система/Система на клнкахъ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65b8f77ace7556d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Система (GURPS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3470f7e485deccba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "0a07870e8e9cd336",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Клинковая Система/Система на клнкахъ.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "16535b02fc511ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стимпанк (на клинках)/Система (Стимпанк)/Крафт.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5af6c7ffc6d6303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стимпанк (на клинках)/Система (Стимпанк)/Магия (Стимпанк).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "c7913efb7886a2dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb4efa93792bd0bc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "bd9069daa1e77e54"
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,14 +94,9 @@
             "id": "10c3eccf7e503bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "bd9069daa1e77e54"
+              "type": "empty",
+              "state": {}
+            }
           },
           {
             "id": "f9d70045dc33bd4d",
@@ -86,8 +120,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9c1a2913198ffdf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md",
+                "file": "Система (GURPS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md",
+                "file": "Система (GURPS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,16 +192,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexcrawler PBTA/Буклеты.md"
+                "file": "Система (GURPS).md"
               }
             }
+          },
+          {
+            "id": "5ac1c09bba40923d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +221,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb4efa93792bd0bc",
+  "active": "3470f7e485deccba",
   "lastOpenFiles": [
+    "Клинковая Система/Система на клнкахъ.md",
+    "Система (GURPS).md",
+    "ZZZ Cyberpunk",
+    "Стимпанк (на клинках)/Система (Стимпанк)/Магия (Стимпанк).md",
+    "Стимпанк (на клинках)/Система (Стимпанк)/Бой на кораблях..md",
+    "Стимпанк (на клинках)/Система (Стимпанк)/Крафт.md",
+    "Стимпанк (на клинках)/Система (Стимпанк)/Система на клнкахъ.md",
+    "Варианты Игр.md",
+    "Стимпанк (на клинках)/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Стимпанк (на клинках)/Сеттинг/Заметки. Расколотые Небеса.md",
+    "Стимпанк (на клинках)/Система (Стимпанк)",
+    "Стимпанк (на клинках)/Сеттинг",
+    "Стимпанк (на клинках)",
     "Hexcrawler PBTA/Ходы.md",
     "Hexcrawler PBTA/Буклеты.md",
     "Даркфенетези/Blasphemous/Основные Правила.md",
